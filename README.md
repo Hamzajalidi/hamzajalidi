@@ -1,8 +1,8 @@
- # 💫 About Me:
-# Hi there, I'm Hamza Jalidi 👋  <br><br>🔧 Backend Developer | 🛡️ Cybersecurity Enthusiast  <br><br>I'm passionate about building robust, scalable backend systems and exploring the depths of cybersecurity. My goal is to write efficient, secure code while continuously learning new technologies.  <br><br>🔥 Current Focus  <br>- Building secure microservices architectures.  <br>- Contributing to open-source security tools.  <br>- Learning about cloud security (AWS/GCP).  
+# 💫 About Me:
+Hi there, I'm Hamza Jalidi 👋  <br><br>🔧 Backend Developer | 🛡️ Cybersecurity Enthusiast  <br><br>I'm passionate about building robust, scalable backend systems and exploring the depths of cybersecurity. My goal is to write efficient, secure code while continuously learning new technologies.  <br><br>🔥 Current Focus  <br>- Building secure microservices architectures.  <br>- Contributing to open-source security tools.  <br>- Learning about cloud security (AWS/GCP).  
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jalidi13) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/hamzajalidi21) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hamzajalidi21@gmail.com) 
 
 # 💻 Tech Stack:
