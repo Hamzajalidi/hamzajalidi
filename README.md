@@ -1,5 +1,9 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
  
- 
+  
 
  <h1 align="center"> Hi 👋  ,  I'm Hamza Jalidi </h1>
  <h3>  💫 About Me: </h3>
@@ -27,24 +31,27 @@
  
   <h3 align="center">🌐 Socials: </h3>
  
+   
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jalidi13) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/hamzajalidi21) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hamzajalidi21@gmail.com) 
 
 ---
-<!-- git stat-->
- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzajalidi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzajalidi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+
+ 
+
+ 
+ 
+
+<h3 align="center">🔥   My Stats :</h3>
+
+ 
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=hamzajalidi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamzajalidi/hamzajalidi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamzajalidi/hamzajalidi/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hamzajalidi/hamzajalidi/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+ 
+ 
 <br/><br/>
 
  <h3 align="center">📚 Languages & tools I Have placed My Hands On </h3>
