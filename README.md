@@ -1,7 +1,29 @@
+
+
+
  
+ 
+
  <h1 align="center"> Hi 👋  ,  I'm Hamza Jalidi </h1>
  <h3>  💫 About Me: </h3>
-<h4> <b>🔧 Backend Developer | 🛡️ Cybersecurity Enthusiast </b> <br><br>I'm passionate about building robust, scalable backend systems and exploring the depths of cybersecurity. My goal is to write efficient, secure code while continuously learning new technologies.  <br><br>🔥 Current Focus 
+<h4> <b>🔧 Backend Developer | 🛡️ Cybersecurity Enthusiast </b> <br><br>I'm passionate about building robust, scalable backend systems and exploring the depths of cybersecurity. My goal is to write efficient, secure code while continuously learning new technologies.  <br><br>
+  <div align="center">
+<a href="https://github.com/hamzajalidi">
+  <img width="120px" 
+       src="https://komarev.com/ghpvc/?username=hamzajalidi&label=Profile%20views&color=318CE7&style=for-the-badge" 
+       alt="Profile views" /></a>
+<a href="https://api.github-star-counter.workers.dev/user/hamzajalidi">
+  <img width="100px" 
+       alt="Total stars" 
+       title="Total stars on GitHub" 
+       src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=318CE7&labelColor=505050&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/JoshuaThadi" /></a>
+<a href="https://github.com/hamzajalidi?tab=followers">
+  <img width="125px" 
+       alt="Followers" 
+       title="Follow me on GitHub" 
+       src="https://custom-icon-badges.herokuapp.com/github/followers/hamzajalidi?color=318CE7&labelColor=505050&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" /></a>
+ </div>
+ <br><br>🔥 Current Focus 
  <br>-  Building secure microservices architectures.  <br>- Contributing to open-source security tools.  <br>-  Learning about cloud security (AWS/GCP).  </h4>
 
 ---
@@ -11,6 +33,16 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jalidi13) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/hamzajalidi21) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hamzajalidi21@gmail.com) 
 
 ---
+<!-- git stat-->
+<h3 align="center">⚡ Github Status</h3>
+<br>
+<div align="center">
+<img width="380" src="https://github-readme-stats.vercel.app/api?username=hamzajalidi&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10"/>
+
+  <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzajalidi&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+</div>
+
+<br/><br/>
 
  <h3 align="center">📚 Languages & tools I Have placed My Hands On </h3>
 
