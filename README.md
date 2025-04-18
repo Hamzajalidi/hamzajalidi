@@ -1,4 +1,4 @@
-  <img src="https://github.com/Hamzajalidi/hamzajalidi/blob/main/fallout.gif" alt="Fallout GIF" style="width:auto; height:auto"/>
+ 
  <h1 align="center"> Hi 👋  ,  I'm Hamza Jalidi </h1>
  <h3>  💫 About Me: </h3>
 <h4> <b>🔧 Backend Developer | 🛡️ Cybersecurity Enthusiast </b> <br><br>I'm passionate about building robust, scalable backend systems and exploring the depths of cybersecurity. My goal is to write efficient, secure code while continuously learning new technologies.  <br><br>🔥 Current Focus 
