@@ -1,6 +1,3 @@
-  <div align="center"> 
-<img   width="800px" height="150px"  src="https://github.com/Hamzajalidi/hamzajalidi/blob/main/imo.jpeg"/>
- </div>
  
  
 
